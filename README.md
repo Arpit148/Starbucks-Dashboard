@@ -95,3 +95,4 @@ Promotes transparency and encourages informed purchasing decisions.
 🏁 Conclusion
 
 This dashboard transforms Starbucks nutrition data into meaningful business insights, helping stakeholders understand beverage trends, improve nutritional transparency, and support healthier customer choices through interactive analytics.
+Dashboard Preview -[https://github.com/Arpit148/Starbucks-Dashboard/blob/main/Starbucks%20Analysis.png]
